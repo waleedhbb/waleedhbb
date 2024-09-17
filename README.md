@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Waleed Habbab! 👋
 
-<!--
-**waleedhbb/waleedhbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Software Engineering student at the University of Applied Sciences, College of Information Technology. I am passionate about coding, solving complex problems, and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, Java, C++, JavaScript, HTML, CSS
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, VS Code
+
+## 🚀 What I'm Working On
+
+- Learning advanced algorithms and data structures.
+- Working on some personal coding projects.
+
+## 📚 Education
+
+- BSc in Software Engineering (Second Year)
+- University of Applied Sciences, College of Information Technology
+
+## 📫 How to Reach Me
+
+- LinkedIn: (https://www.linkedin.com/in/waleed-habbab-698098254/)
+- Email: waleedalhbbab@gmail.com
+
+## ⚡ Fun Fact
+
+I love tackling new challenges in coding and enjoy contributing to open-source projects!
