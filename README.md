@@ -5,7 +5,7 @@ I'm a second-year Software Engineering student at the University of Applied Scie
 ## 🔧 Skills & Technologies
 
 - **Languages:** Python, Java, C++, JavaScript, HTML, CSS
-- **Frameworks:** React, Node.js, Django
+- **Frameworks:** React, Node.js
 - **Tools:** Git, VS Code
 
 ## 🚀 What I'm Working On
