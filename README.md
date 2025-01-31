@@ -10,8 +10,10 @@ I'm a second-year Software Engineering student at the University of Applied Scie
 
 ## 🚀 What I'm Working On
 
-- Learning advanced algorithms and data structures.
-- Working on some personal coding projects.
+- Developing interactive and responsive web applications
+- Exploring new front-end frameworks
+- Enhancing my problem-solving skills through coding challenges
+- Building projects that improve user experience and functionality
 
 ## 📚 Education
 
