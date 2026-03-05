@@ -24,7 +24,3 @@ I'm a second-year Software Engineering student at the University of Applied Scie
 
 - LinkedIn: (https://www.linkedin.com/in/waleed-habbab-698098254/)
 - Email: waleedalhbbab@gmail.com
-
-## ⚡ Fun Fact
-
-I love tackling new challenges in coding and enjoy contributing to open-source projects!
