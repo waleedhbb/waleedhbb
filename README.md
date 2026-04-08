@@ -1,6 +1,6 @@
 # Hi, I'm Waleed Habbab! 👋
 
-I'm a second-year Software Engineering student at the University of Applied Sciences, College of Information Technology. I am passionate about coding, solving complex problems, and continuously learning new technologies.
+I'm a Software Engineering student at the University of Applied Sciences, IT Facility. I am passionate about coding, solving complex problems, and continuously learning new technologies.
 
 ## 🔧 Skills & Technologies
 
