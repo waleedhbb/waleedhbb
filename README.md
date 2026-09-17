@@ -17,7 +17,7 @@ I'm a Software Engineering student at the University of Applied Sciences, IT Fac
 
 ## 📚 Education
 
-- BSc in Software Engineering (Second Year)
+- BSc in Software Engineering (Final Year)
 - University of Applied Sciences, College of Information Technology
 
 ## 📫 How to Reach Me
